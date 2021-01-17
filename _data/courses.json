@@ -1,0 +1,37 @@
+[
+  {
+    "_id": "5d725a4a7b292f5f8ceff788",
+    "title": "Geometry",
+    "description": "This course will provide you with all of the essentials to become a successful frontend web developer. You will learn to master HTML, CSS and front end JavaScript, along with tools like Git, VSCode and front end frameworks like Vue",
+    "length": "20",
+    "professors": ["5d725c84c4ded7bcb480eaa0", "5d725c84c4ded7bcb480eaa1"]    
+  },
+  {
+    "_id": "5d725a4a7b292f5f8ceff789",
+    "title": "Chemistry",
+    "description": "In this course you will learn full stack web development, first learning all about the frontend with HTML/CSS/JS/Vue and then the backend with Node.js/Express/MongoDB",
+    "length": "50",
+    "professors": ["5d725c84c4ded7bcb480eaa0", "5d725c84c4ded7bcb480eaa1"]   
+  },
+  {
+    "_id": "5d725a4a7b292f5f8ceff790",
+    "title": "Biology",
+    "description": "In this course you will learn all about the front end with HTML, CSS and JavaScript. You will master tools like Git and Webpack and also learn C# and ASP.NET with Postgres",
+    "length": "40",
+    "professors": ["5d725c84c4ded7bcb480eaa0", "5d725c84c4ded7bcb480eaa1"]     
+  },
+  {
+    "_id": "5d725a4a7b292f5f8ceff791",
+    "title": "Astronomy",
+    "description": "In this course you will learn to create beautiful interfaces. It is a mix of design and development to create modern user experiences on both web and mobile",
+    "length": "30",
+    "professors": ["5d725c84c4ded7bcb480eaa2", "5d725c84c4ded7bcb480eaa3"]     
+  },
+  {
+    "_id": "5d725a4a7b292f5f8ceff792",
+    "title": "Anatomy",
+    "description": "Get started building websites and web apps with HTML/CSS/JavaScript/PHP. We teach you",
+    "length": "60",
+    "professors": ["5d725c84c4ded7bcb480eaa2", "5d725c84c4ded7bcb480eaa3"]    
+  }
+]

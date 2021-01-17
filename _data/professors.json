@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "5d725c84c4ded7bcb480eaa0",
+    "name": "Slavik",
+    "courses": ["5d725a4a7b292f5f8ceff788","5d725a4a7b292f5f8ceff789", "5d725a4a7b292f5f8ceff790"]
+    
+  },
+  {
+    "_id": "5d725c84c4ded7bcb480eaa1",
+    "name": "Carlos",
+     "courses": ["5d725a4a7b292f5f8ceff788","5d725a4a7b292f5f8ceff789", "5d725a4a7b292f5f8ceff790"]
+    
+  },
+  {
+    "_id": "5d725c84c4ded7bcb480eaa2",
+    "name": "Lena",
+    "course": "5d725a4a7b292f5f8ceff789",
+    "courses": ["5d725a4a7b292f5f8ceff791","5d725a4a7b292f5f8ceff792"]
+  },
+  {
+    "_id": "5d725c84c4ded7bcb480eaa3",
+    "name": "Mike",
+    "course": "5d725a4a7b292f5f8ceff790",
+    "courses": ["5d725a4a7b292f5f8ceff791","5d725a4a7b292f5f8ceff792"]
+  }  
+]
